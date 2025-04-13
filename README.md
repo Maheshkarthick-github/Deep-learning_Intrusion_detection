@@ -1,6 +1,6 @@
 # Deep-learning_Intrusion_detection
 
-This repository contains implementations of various deep learning models designed for Intrusion Detection System (IDS) research, using cybersecurity datasets like CICIDS2017 and CICIDS2018.
+This repository contains implementations of various deep learning models designed for Intrusion Detection System (IDS) research, using cybersecurity dataset CICIDS2018.
 
 Architectures Implemented:
 Pure CNN Models (1, 2, 3 Layers)
